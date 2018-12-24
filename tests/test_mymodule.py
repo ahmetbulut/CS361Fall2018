@@ -5,4 +5,4 @@ from source import mymodule
 
 class MyTest(unittest.TestCase):
     def test_hello_world(self):
-        assert mymodule.hello_world() == "hello hello world"
+        assert mymodule.hello_world() == "hello beautiful world"
